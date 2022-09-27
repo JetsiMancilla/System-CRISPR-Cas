@@ -1,0 +1,15 @@
+Genomes of A.seifertii
+
+
+>UBA3035
+
+>AS4-1-plasmid
+>AS6-4-plasmid
+>AS23-1-plasmid
+>AS39-2-plasmid
+>AS48-2-plasmid
+>AS61-2-plasmid
+>AS52-2-plasmid
+>AS70-1-plasmid
+>AS74-1-plasmid
+>AS74-4-plasmid
